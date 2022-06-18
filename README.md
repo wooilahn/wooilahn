@@ -5,7 +5,7 @@
 </p>
 	<h3>😄 Wooil Ahn </h3>
 	<a href="mailto:boxer1532@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a> 
-	<a href="mailto:boxer1532@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Gmail&logoColor=white&link=boxer1532@naver.com"/></a> 
+	<a href="mailto:boxer1532@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=naver&logoColor=white&link=boxer1532@naver.com"/></a> 
 	<a href="solved.ac/boxer1532"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=boxer1532"/></a>
 </br>
 	🎓 아주대학교 소프트웨어학과 학사 졸 (2020.02) / KAIST 전산학부 석사 졸 (2022.02)
@@ -50,7 +50,7 @@
 	                     <td>Deep-Learning framework</td>
 	                     <td>
                                    <img src="https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=flat-square&logo=Tensorflow&logoColor=white">
-                                   <img src="https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=flat-square&logo=Android&logoColor=white">
+                                   <img src="https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=flat-square&logo=pytorch&logoColor=white">
                             </td>
 	       	      </tr>
               	      <tr align="center">
@@ -94,6 +94,7 @@
 				   <img src="https://img.shields.io/badge/ElasticStack-005571.svg?&style=flat-square&logo=ElasticStack&logoColor=white">
 				   <img src="https://img.shields.io/badge/inVision-FF3366.svg?&style=flat-square&logo=inVision&logoColor=white">
 				   <img src="https://img.shields.io/badge/LaTeX-008080.svg?&style=flat-square&logo=LaTeX&logoColor=white">
+				   <img src="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=flat-square&logo=OpenCV&logoColor=white">
                             </td>
               	      </tr>
 	</table>
