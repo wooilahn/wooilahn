@@ -11,7 +11,6 @@
 	🎓 아주대학교 소프트웨어학과 학사 졸 (2020.02) / KAIST 전산학부 석사 졸 (2022.02)
 </br>
 </br>
-</br>
 
 </div>
 <div align="center">
@@ -21,7 +20,6 @@
 <img width=37% align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=boxer1532"/>
 </div>
 
-</br>
 </br>
 </br>
 
