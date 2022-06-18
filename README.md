@@ -1,5 +1,15 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient"><br/>
+</p>
+
 <!-- Chapter 1 -->
 # 😄 Wooil Ahn
+<div align="center">
+🎓 아주대학교 소프트웨어학과 학사 졸 (2020.02) / KAIST 전산학부 석사 졸 (2022.02) </br>
+	</br>
+</br>
+</br>
+</div>
 <div align="center">
 <!-- github stats -->
 <img width=50% height=auto align="center" src="https://github-readme-stats.vercel.app/api?username=wooilahn&show_icons=true&theme=swift"/> 
@@ -80,15 +90,10 @@
 				   <img src="https://img.shields.io/badge/LaTeX-008080.svg?&style=for-the-badge&logo=LaTeX&logoColor=white">
                             </td>
               	      </tr>
+	</table>
 </div>
+	
+	
+<!-- Chapter 3 -->
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	
