@@ -72,7 +72,7 @@
                             </td>
               	      </tr>
               	      <tr align="center">
-	                     <td>etc (What I have experienced)</td>
+	                     <td>etc. (What I have experienced)</td>
 	                     <td>
                                    <img src="https://img.shields.io/badge/RaspberryPi-A22846.svg?&style=for-the-badge&logo=RaspberryPi&logoColor=white">
 				   <img src="https://img.shields.io/badge/ElasticStack-005571.svg?&style=for-the-badge&logo=ElasticStack&logoColor=white">
