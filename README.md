@@ -1,7 +1,7 @@
 # 😄 About me
 <div align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=wooilahn&show_icons=true&theme=swift"/>
-<img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=boxer1532"/>
+<img width=45% height=auto align="center" src="https://github-readme-stats.vercel.app/api?username=wooilahn&show_icons=true&theme=swift"/>
+<img width=35% align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=boxer1532"/>
 </div>
        
        
