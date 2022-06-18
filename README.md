@@ -67,7 +67,7 @@
                                    <img src="https://img.shields.io/badge/VS-5C2D91.svg?&style=flat-square&logo=visualstudio&logoColor=white">
                                    <img src="https://img.shields.io/badge/VSCode-007ACC.svg?&style=flat-square&logo=visualstudiocode&logoColor=white">
                                    <img src="https://img.shields.io/badge/Eclipse-2C2255.svg?&style=flat-square&logo=EclipseIDE&logoColor=white">
-                                   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84.svg?&style=flat-square&logo=Pycharm&logoColor=white">
+                                   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84.svg?&style=flat-square&logo=androidstudio&logoColor=white">
                                    <img src="https://img.shields.io/badge/Pycharm-000000.svg?&style=flat-square&logo=Pycharm&logoColor=white">
                             </td>
               	      </tr>
