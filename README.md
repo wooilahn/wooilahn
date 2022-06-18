@@ -38,7 +38,7 @@
                             </td>
 	       	      </tr>
               	      <tr align="center">
-	                     <td>Web & Mobile Framework</td>
+	                     <td>Web & Mobile framework</td>
 	                     <td>
                                    <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white">
                                    <img src="https://img.shields.io/badge/Bootstrap-7852B3.svg?&style=for-the-badge&logo=Bootstrap&logoColor=white">
@@ -46,7 +46,7 @@
                             </td>
 	       	      </tr>
               	      <tr align="center">
-	                     <td>Integrated Development Environment (IDE)</td>
+	                     <td>Integrated development environment (IDE)</td>
 	                     <td>
                                    <img src="https://img.shields.io/badge/VS-5C2D91.svg?&style=for-the-badge&logo=visualstudio&logoColor=white">
                                    <img src="https://img.shields.io/badge/VSCode-007ACC.svg?&style=for-the-badge&logo=visualstudiocode&logoColor=white">
