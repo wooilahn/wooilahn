@@ -1,7 +1,4 @@
 <!-- Chapter 1 -->
-
-[![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=boxer1532)](https://solved.ac/{handle})
-
 <div align="center">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=Slice&color=0:c2e59c,100:64b3f4"><br/>
