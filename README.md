@@ -1,6 +1,5 @@
 # 😄 About me
-![wooilahn's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooilahn&show_icons=true&theme=swift)
-![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=boxer1532)
+![wooilahn's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooilahn&show_icons=true&theme=swift) ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=boxer1532)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
