@@ -5,7 +5,7 @@
 <!-- Chapter 1 -->
 
 <div align="center">
-	<h3> 😄 Wooil Ahn </h3>
+	<h3>😄 Wooil Ahn </h3>
 	<a href="mailto:boxer1532@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a> 
 	<a href="mailto:boxer1532@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Gmail&logoColor=white&link=boxer1532@naver.com"/></a> 
 </br>
@@ -22,9 +22,13 @@
 <img width=37% align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=boxer1532"/>
 </div>
 
+</br>
+</br>
+</br>
+
 <!-- Chapter 2 -->
-# 📚 Skills
 <div align="center">
+	<h3> 📚 Skills </h3>
        <table align="center">
 	       <th>CATEGORY</th>
 	       <th>ITEMS</th>
