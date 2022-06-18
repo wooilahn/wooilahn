@@ -3,12 +3,17 @@
 </p>
 
 <!-- Chapter 1 -->
-# 😄 Wooil Ahn
+
 <div align="center">
-🎓 아주대학교 소프트웨어학과 학사 졸 (2020.02) / KAIST 전산학부 석사 졸 (2022.02) </br>
-	</br>
+	<h3> 😄 Wooil Ahn </h3>
+	<a href="mailto:boxer1532@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a> 
+	<a href="mailto:boxer1532@naver.com"><img src="https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Gmail&logoColor=white&link=boxer1532@naver.com"/></a> 
+</br>
+	🎓 아주대학교 소프트웨어학과 학사 졸 (2020.02) / KAIST 전산학부 석사 졸 (2022.02)
 </br>
 </br>
+</br>
+
 </div>
 <div align="center">
 <!-- github stats -->
