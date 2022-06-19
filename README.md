@@ -1,6 +1,3 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wooilahn&show_icons=true&theme=vue](https://github.com/wooilahn/github-readme-stats)
-
-
 <!-- Chapter 1 -->
 <div align="center">
 <!-- <p align="center">
