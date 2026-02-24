@@ -18,10 +18,9 @@
 
 </div>
 <div align="center">
-<!-- github stats -->
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=wooilahn&show_icons=true&theme=vue" alt="wooilahn's github stats"/>
-<!-- solved.ac (Baekjoon Badge) -->
-<img width=37% align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=boxer1532"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wooilahn&background=0D1117&ring=10C895&fire=10C895&currStreakNum=FFFFFF&currStreakLabel=10C895&sideNums=FFFFFF&sideLabels=10C895&dates=C9C9C9&border=00000000&hide_border=true" height="170" alt="wooilahn's streak"/>
+  
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=boxer1532" height="170" alt="Solved.ac Badge"/>
 </div>
 
 </br>
